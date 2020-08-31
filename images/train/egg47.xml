@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>egg47.JPG</filename>
+	<path>C:\Users\murrar11\Documents\Tensorflow\workspace\training_demo\images\egg47.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg_70kcal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1511</xmin>
+			<ymin>1304</ymin>
+			<xmax>2166</xmax>
+			<ymax>1907</ymax>
+		</bndbox>
+	</object>
+</annotation>

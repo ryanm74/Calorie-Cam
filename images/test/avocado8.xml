@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>avocado8.JPG</filename>
+	<path>C:\Users\murrar11\Documents\Tensorflow\workspace\training_demo\images\avocado8.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>avocado_240kcal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1292</xmin>
+			<ymin>37</ymin>
+			<xmax>2295</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+</annotation>

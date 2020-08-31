@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>banana43.JPG</filename>
+	<path>C:\Users\murrar11\Documents\Tensorflow\workspace\training_demo\images\banana43.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana_90kcal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1817</xmin>
+			<ymin>1188</ymin>
+			<xmax>3234</xmax>
+			<ymax>2110</ymax>
+		</bndbox>
+	</object>
+</annotation>

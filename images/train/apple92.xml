@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>apple92.JPG</filename>
+	<path>C:\Users\murrar11\Documents\Tensorflow\workspace\training_demo\images\apple92.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple_95kcal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1920</xmin>
+			<ymin>925</ymin>
+			<xmax>2558</xmax>
+			<ymax>1592</ymax>
+		</bndbox>
+	</object>
+</annotation>

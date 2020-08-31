@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bagel127.JPG</filename>
+	<path>C:\Users\murrar11\Documents\Tensorflow\workspace\training_demo\images\bagel127.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bagel_225kcal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1917</xmin>
+			<ymin>1052</ymin>
+			<xmax>2611</xmax>
+			<ymax>1878</ymax>
+		</bndbox>
+	</object>
+</annotation>
