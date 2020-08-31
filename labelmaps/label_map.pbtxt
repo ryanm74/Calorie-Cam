@@ -1,0 +1,24 @@
+item {
+    id: 1
+    name: 'bagel_225kcal'
+}
+
+item {
+    id: 2
+    name: 'banana_90kcal'
+}
+
+item {
+    id: 3
+    name: 'egg_70kcal'
+}
+
+item {
+    id: 4
+    name: 'avocado_240kcal'
+}
+
+item {
+    id: 5
+    name: 'apple_95kcal'
+}
