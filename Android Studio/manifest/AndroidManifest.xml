@@ -1,0 +1,35 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="gmit.com.caloriecam;">
+
+    <uses-sdk />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/logo"
+        android:label="Calorie Cam"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.ObjectDetection">
+        <activity android:name=".Apple" />
+        <activity android:name=".Avocado" />
+        <activity android:name=".Egg" />
+        <activity android:name=".Banana" />
+        <activity android:name=".Bagel" />
+        <activity android:name=".LabelInfo" />
+        <activity android:name=".AboutCalorieCam" />
+        <activity android:name=".Features" />
+        <activity android:name=".Camera" />
+        <activity android:name=".DetectorActivity"/>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+    </application>
+</manifest>
